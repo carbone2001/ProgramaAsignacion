@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1559169757 source:d:\escritorio\asignaciondesalidas\hermanos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hermanos.h"
+
+1559150873 d:\escritorio\asignaciondesalidas\hermanos.h
+	<stdlib.h>
+	<stdio.h>
+
+1558905216 source:d:\escritorio\asignaciondesalidas\salidas.c
+
+1559169757 source:d:\escritorio\asignaciondesalidas\main.c
+	"salidas.h"
+	"hermanos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1558986093 d:\escritorio\asignaciondesalidas\salidas.h
+
+1558984263 source:d:\escritorio\asignaciondesalidas\linkedlist.c
+
+1558990081 source:d:\escritorio\asignaciondesalidas\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"inputs.h"
+
+1557955825 d:\escritorio\asignaciondesalidas\inputs.h
+
